@@ -26,8 +26,8 @@ A clean and modern multi-column feature section component built using html and c
 
 ## Links
 
-- Live Site URL: [Vercel](https:)
-- Solution URL: [Github](https:)
+- Live Site URL: [Vercel](https://four-card-feature-section-xi.vercel.app/)
+- Solution URL: [Github](https://github.com/vo1d-bot/Four-Card-Feature-Section.git)
 
 ## Built With
 
